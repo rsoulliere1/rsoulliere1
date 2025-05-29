@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rsoulliere1
-- 👀 I’m interested in web applications, game development and XR applications.
-- 🌱 I’m currently learning Python, Three.js, Blender and Unity.
+- 👀 I’m interested in web applications, game development and Library related applications.
+- 🌱 I’m currently learning how to survive in today's world.
 - 📫 How to reach me: rsoulliere@yahoo.com
