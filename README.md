@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rsoulliere1
-- 👀 I’m interested in web applications, game development and Library related applications.
-- 🌱 I’m currently learning how to survive in today's world.
+- 👀 I’m interested in game development, library related web applications and Linux developemtn and tools.
+- 🌱 I’m currently learning how to survive in today's world using open source software.
 - 📫 How to reach me: rsoulliere@yahoo.com
